@@ -2,7 +2,7 @@
 #include "sort.h"
 
 /**
- * insertion_sort_list - Sorts a doubly linked list of integers in ascending order
+ * insertion_sort_list - Sorts a doubly linked list of integers in order
  * @list: A pointer to a pointer to the head of the list
  */
 void insertion_sort_list(listint_t **list)
